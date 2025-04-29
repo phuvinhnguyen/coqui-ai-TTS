@@ -14,5 +14,5 @@
 conda activate tts
 
 # Run the training script
-python train_glow_tts.py \
+python ../recipes/vinh/glow_tts/train_glowtts.py \
   --data_path recipes/ljspeech/LJSpeech-1.1
